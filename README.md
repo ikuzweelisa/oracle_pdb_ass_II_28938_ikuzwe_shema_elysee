@@ -12,6 +12,8 @@ deletion of Pluggable Databases (PDBs), user management within a PDB
 ## Task 1: Create a New Pluggable Database
 >Created the temporary PDB using the same method as Task 1.
 - [x] Created PDB ik_pdb_28938 with user ikuzwe_plsqlauca_28938
+- [x] PDB Open State
+[Create PDB](https://github.com/ikuzweelisa/oracle_pdb_ass_II_28938_ikuzwe_shema_elysee/blob/main/screenshots/pdb_creation.png)
 
 
 ## Task 2: Create and Delete a PDB
@@ -19,4 +21,6 @@ deletion of Pluggable Databases (PDBs), user management within a PDB
 - [x] Created PDB  ik_pdb_to_delete_28938
 - [x] Closing PDB
 - [x] Dop PDB
+
+![PDB Deleted created](https://github.com/ikuzweelisa/oracle_pdb_ass_II_28938_ikuzwe_shema_elysee/blob/main/screenshots/pdb_creation.png)
 
